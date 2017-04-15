@@ -1,0 +1,130 @@
+#body-1{
+	background:url(../images/4.png);
+	background-size: 100%;
+	}
+#body-2{
+	background:url(../images/6.jpg);
+	background-size: 100%;
+	}
+textarea {
+	resize:none;
+}
+#satu {
+	font-family:Andalus;
+	font-size:32px;
+	text-align:center;
+	color:#CC33CC;}
+#dua {
+	background-color:#CC99FF;
+	border-style:dotted;
+	border: 4;
+	border-color:#FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-size:16px;
+	width:400;
+	height:200;}
+a {
+	color: black;
+	text-decoration: none;}
+a:visited { 
+	color:purple;} 
+h1, h2 {
+	margin: 0;}
+h1 a, ul#menu li a {
+	text-decoration:none;
+	color:#5555FF;}
+h2 {
+	text-align:center;
+	padding-top:30px;
+	padding-bottom: 60px;
+	font-size:40px;}
+#color {
+	color:red;
+	font-size: 30px}
+#color2 {
+	color: blue;
+	text-decoration: none;}
+#center {
+	margin-left: 41.8%}
+#center2 {
+	text-align:center}
+#received, #send {
+	text-align:left;
+	color:black;}
+#received {
+	background-color: #8888FF;
+	width: 700px;
+	margin-top: 1.5%;
+	margin-left: 50px;
+	border-radius: 15px 15px 0px 15px;
+	padding: 10px;}
+#send {
+	background-color: #FFFFFF;
+	width: 700px;
+	margin-top: 1.5%;
+	margin-left: 0px;
+	border-radius: 15px 15px 15px 0px;
+	padding: 10px;}
+#right3 {
+	color: red;
+	font-size: 11;
+	text-align: right;}
+#right, #right2, #right3 {
+	float: right;}
+#right {
+	padding-top: 15px;
+	clear: both;
+	color: black;
+	width: 68%;
+	margin-bottom: 100px;}
+#left {
+	margin-left: 8%;
+	float: left;
+	width: 22%;}
+#nav {
+	background-color: #D2CAA0;
+	height: 39.5px;
+	padding-left:32px;
+	min-width: 1200px;}
+#top {
+	margin:0px 30px;
+	min-width: 550px;}
+#header {
+	width: 99%;
+	position: fixed;
+	margin: -150px auto;}
+#main {
+	background-color:pink;
+	min-height: 400px;
+	color: black;
+	padding: 20px 30px;
+	padding-bottom: 60px;
+	width: 50%;
+	text-align: left;
+	margin-top: 150px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:9%;
+	text-align: justify;}
+#footer{
+	background-color: #D2CAA0;
+	clear: both;
+	color: black;
+	text-align: right;
+	width: 99%;
+	position: absolute;}
+ul#menu {
+	padding: 0px;
+	position: relative;
+	margin: 0px;}
+ul#menu li{
+	display: inline;}
+ul#menu li a {
+	padding: 10px 20px;
+	line-height: 40px;}
+ul#menu li a:hover {
+	background-color: #e8eef4;
+	color : black;}
+	
+
