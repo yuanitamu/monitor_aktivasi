@@ -3,3 +3,15 @@ monitoring aplikasi web pt. indonesia comnet plus jatim
 - rizky salsabella
 - yuanita muharyani utami
 - zahra swastika putri
+
+merupakan aplikasi berbasis web yang dibuat untuk pt. indonesia comnets plus reg. jawa timur 
+dimana tujuan dari pembuatan
+aplikasi ini adalah untuk meningkatkan nilai produktivitas perusahaan dengan cara memberikan 
+informasi terkait pelayanan aktivasi yang telah dilakukan karyawan terutama laporan hasil 
+pelayanan
+yang berada dibawah naungan perusahaan icon+ reg. jatim sebagai bahan monitoring dan evaluasi 
+kerja oleh manajer regional.
+untuk melakukan CRUD data, user harus login terlebih dahulu menjadi admin. dalam aplikasi web ini 
+(dashboard), ada beberapa menu yang digunakan
+yaitu lastmile dan jaringan, pemeliharaan jaringan, presales aktivasi, data aset, administrasi dan umum, serta sales order. masing-masing menu memiliki fungsi yang berbeda-beda dimana setelah data dimasukkan maka rangkuman data yang 
+dimasukkan tersebut akan ditampilkan di halaman depan aplikasi.
